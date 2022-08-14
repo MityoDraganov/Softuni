@@ -1,5 +1,11 @@
 # 💫 About Me:
-😀My name is Mityo<br>👨‍🎓Student at SoftUni(softuni.bg)<br>🌱I’m currently learning JS
+😀My name is Mityo<br>👨‍🎓Student at SoftUni(softuni.bg)<br>🌱I’m currently learning JS <br>
+<br>
+
+# 📋 Certificates:
+![image](https://user-images.githubusercontent.com/106108077/184549385-fd597c66-f797-4207-bc46-0309b5209040.png)
+
+
 
 
 ## 🌐 Socials:
