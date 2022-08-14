@@ -3,8 +3,7 @@
 <br>
 
 # 📋 Certificates:
-![image](https://user-images.githubusercontent.com/106108077/184549385-fd597c66-f797-4207-bc46-0309b5209040.png)
-
+[Programming Fundamentals with JavaScript - May 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9333860/Programming.Fundamentals.with.JavaScript.-.May.2022.-.Certificate.pdf)
 
 
 
